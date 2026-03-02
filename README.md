@@ -1,12 +1,10 @@
-# DBG_threads - Multi-threaded Program Monitor & Analyzer
-
-Automated system for testing and monitoring multi-threaded C++ programs with performance metrics collection, deadlock detection, and data race detection.
+Image invertion script
 
 
 ## Quick Start
 
 ```bash
-git clone https://github.com/Potato3852/DBG_threads
+git clone https://github.com/klayyy122/image_invertion_script.git
 cd DBG_threads
 chmod +x run.sh
 ```
@@ -96,4 +94,4 @@ Author`s comment: The file system_monitor.py is not in use now, because I switch
 Created by:
 - Potato3852 
 - klayyy122
-- my brother DeepSeek.
+- our brother DeepSeek.
