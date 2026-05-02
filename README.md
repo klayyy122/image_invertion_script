@@ -19,11 +19,6 @@ chmod +x run.sh
 ./run.sh 12
 ```
 
-## Run specific file(choose your files after number of threads in <name> or <name>.cpp format)
-```bash
-./run.sh 8 race_demo
-./run.sh 4 normal.cpp deadlock_demo.cpp
-```
 
 ## Smart compilation - recompiles only when source changes
 
